@@ -14,9 +14,9 @@ public class SingleLinkedList {
     }
 
     public void insertFirst(int val) {
-        Node node = new Node(val);
-        node.next = node;
-        head = node;
+        Node node = new Node(val); // create a new node
+        node.next = head;
+        head = node;// now change head pointed to new node
 
         if(tail == null)
         {
