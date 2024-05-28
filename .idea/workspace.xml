@@ -1,38 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2fc5d3a0-0924-4680-8880-1466676fbb5c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/BaseBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/BaseBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/BestTimeToBuyAndSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/BestTimeToBuyAndSellStockII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/CanPlaceFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/CanPlaceFlowers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/ContainsDuplicate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/ContainsDuplicate2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/DegreeOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/DegreeOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/DiaAppearedNumbersInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/DiaAppearedNumbersInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/FindtheDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/FindtheDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/KeyboardWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/KeyboardWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/LCIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/LCIS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/NexGreaterEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/NexGreaterEle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/PascalTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/PivotIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/PivotIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/RansomNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RansomNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/RelativeRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RelativeRank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/RemoveDuplicatesFromSortedArrayII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RemoveDuplicatesFromSortedArrayII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/ShortestCompletingWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/ShortestCompletingWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/ShortestDistanceToACharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/ShortestDistanceToACharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/SmallestLetterGreaterThanTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SmallestLetterGreaterThanTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/SolutionRemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SolutionRemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/SolutionTwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SolutionTwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/SummaryRanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SummaryRanges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/WorldPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/WorldPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructers/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructers/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/BaseBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/BaseBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/BestTimeToBuyAndSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/BestTimeToBuyAndSellStockII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/CanPlaceFlowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/CanPlaceFlowers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/ContainsDuplicate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/ContainsDuplicate2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/DegreeOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/DegreeOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/DiaAppearedNumbersInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/DiaAppearedNumbersInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/FindtheDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/FindtheDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/KeyboardWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/KeyboardWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/LCIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/LCIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/NexGreaterEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/NexGreaterEle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/PascalTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/PivotIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/PivotIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RansomNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/RansomNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RelativeRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/RelativeRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RemoveDuplicatesFromSortedArrayII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/RemoveDuplicatesFromSortedArrayII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/ShortestCompletingWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/ShortestCompletingWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/ShortestDistanceToACharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/ShortestDistanceToACharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SmallestLetterGreaterThanTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/SmallestLetterGreaterThanTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SolutionRemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/SolutionRemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SolutionTwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/SolutionTwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SummaryRanges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/SummaryRanges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/WorldPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/WorldPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/twoSumThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/twoSumThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Matrix/FlippingAnImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Matrix/FlippingAnImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Matrix/IslandPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Matrix/IslandPerimeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/AddTwoStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/AddTwoStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/CountPrefixAndSuffixPairsI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/CountPrefixAndSuffixPairsI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/FindWordsContainingCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/FindWordsContainingCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/IsSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/IsSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/MakeThreeStringsEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/MakeThreeStringsEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/MinimumIndexSumOfTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/MinimumIndexSumOfTwoLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/MinimumNumberOfPushesToTypeWordI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/MinimumNumberOfPushesToTypeWordI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/NumberOfSegmentsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/NumberOfSegmentsInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/NumberofChangingKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/NumberofChangingKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/ReverseVowelsofaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/ReverseVowelsofaString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/SetMismatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Solutions/Strings/SetMismatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +77,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2bMUbaHDO2Z95njZnzGVkPnNfpL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -66,15 +88,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CountPrefixAndSuffixPairsI.executor": "Run",
+    "Application.FourSum.executor": "Run",
+    "Application.LongestSubstringWithoutRepeatingCharacters.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ThreeSumClosest.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.CountPrefixAndSuffixPairsI">
+}]]></component>
+  <component name="RunManager">
     <configuration name="CountPrefixAndSuffixPairsI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCode.Solutions.Strings.Strings.CountPrefixAndSuffixPairsI" />
       <module name="DSA" />
@@ -162,159 +192,174 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SolutionTwoSum.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/SolutionTwoSum.java</url>
           <line>28</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/PascalTriangle.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/PascalTriangle.java</url>
           <line>27</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/PascalTriangle.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/PascalTriangle.java</url>
           <line>9</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/SummaryRanges.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/SummaryRanges.java</url>
           <line>20</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/DiaAppearedNumbersInArray.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/DiaAppearedNumbersInArray.java</url>
           <line>54</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/DiaAppearedNumbersInArray.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/DiaAppearedNumbersInArray.java</url>
           <line>51</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/DiaAppearedNumbersInArray.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/DiaAppearedNumbersInArray.java</url>
           <line>22</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/NexGreaterEle.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/NexGreaterEle.java</url>
           <line>12</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Demo.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/Demo.java</url>
           <line>16</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/BaseBall.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/BaseBall.java</url>
           <line>11</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Demo1.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/Demo1.java</url>
           <line>13</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RelativeRank.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/RelativeRank.java</url>
           <line>18</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/Sort.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/Sort.java</url>
           <line>19</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/RemoveDuplicatesFromSortedArray.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/RemoveDuplicatesFromSortedArray.java</url>
           <line>83</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/CanPlaceFlowers.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/CanPlaceFlowers.java</url>
           <line>47</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/PivotIndex.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/PivotIndex.java</url>
           <line>10</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/LCIS.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/LCIS.java</url>
           <line>10</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/DegreeOfArray.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/DegreeOfArray.java</url>
           <line>36</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/ShortestDistanceToACharacter.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/ShortestDistanceToACharacter.java</url>
           <line>14</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/FindtheDifference.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/FindtheDifference.java</url>
           <line>14</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/CountPrefixAndSuffixPairsI.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/CountPrefixAndSuffixPairsI.java</url>
           <line>11</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/MakeThreeStringsEqual.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/MakeThreeStringsEqual.java</url>
           <line>16</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/MinimumNumberOfPushesToTypeWordI.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/MinimumNumberOfPushesToTypeWordI.java</url>
           <line>16</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/NumberOfSegmentsInAString.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/NumberOfSegmentsInAString.java</url>
           <line>14</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/ReverseVowelsofaString.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/ReverseVowelsofaString.java</url>
           <line>20</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/IsSubsequence.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/IsSubsequence.java</url>
           <line>9</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/SetMismatch.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/SetMismatch.java</url>
           <line>23</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Strings/MinimumIndexSumOfTwoLists.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/MinimumIndexSumOfTwoLists.java</url>
           <line>14</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Matrix/FlippingAnImage.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Matrix/FlippingAnImage.java</url>
           <line>20</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/twoSumThreeSum.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/twoSumThreeSum.java</url>
           <line>39</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Strings/Arrays/twoSumThreeSum.java</url>
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/twoSumThreeSum.java</url>
           <line>20</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/Arrays/FourSum.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/HashTable/SlidingWindow/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/Solutions/HashTable/SlidingWindow/LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
